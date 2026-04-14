@@ -5,7 +5,7 @@
 A clean, interactive meal browsing and selection app built with React + Vite.
 
 ---
-
+Live Demo: https://raiqaassignment.vercel.app/
 ## Features
 
 | Feature | Description |
